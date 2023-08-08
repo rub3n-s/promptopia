@@ -1,6 +1,6 @@
 # Starting Tips
 ## Create app
-    > npx create-next-app@latest ./
+- npx create-next-app@latest ./
     > ./ will create it in the current folder of the terminal
     
 ## Dependencies
@@ -30,5 +30,5 @@ In this project I will be using tailwind. If any doubt occurs, consult\
 
 # Notes
     .env (Environment Variables)
-        Never send this file to production
-        Add to .gitignore
+        - Never send this file to production
+        - Add to .gitignore
