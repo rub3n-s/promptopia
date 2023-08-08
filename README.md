@@ -11,3 +11,9 @@ TODO
         - Search by username
     > [] Implement Click on Tag
     > [] Implement View other Profiles
+
+Tips:
+    > Search and Click on Tag
+        - Code will be needed to be implemented in the Feed component
+    > New Folder inside profile dir
+        - profile > [id] > page.jsx
