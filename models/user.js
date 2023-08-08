@@ -14,6 +14,9 @@ const UserSchema = new Schema({
     //   "Username invalid, it should contain 8-20 alphanumeric letters and be unique!",
     // ],
   },
+  image: {
+    type: String,
+  },
 });
 
 // The "models" object is provided by the Mongoose libray and stores all the registered models.
