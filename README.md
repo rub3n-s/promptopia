@@ -17,3 +17,8 @@ Tips:
         - Code will be needed to be implemented in the Feed component
     > New Folder inside profile dir
         - profile > [id] > page.jsx
+
+#Notes
+    > .env (Environment Variables)
+        > Never send this file to production
+        > Add to .gitignore
