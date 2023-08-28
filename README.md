@@ -1,13 +1,13 @@
 # Starting Tips
 ## Create app
 - npx create-next-app@latest ./
-    > ./ will create it in the current folder of the terminal
+    > ./ will create the project in the current folder
     
 ## Dependencies
 In this project MongoDB and Next-Auth are being used\
 bscrypt: encript passwords\
 mongodb: database\
-mongoose: manage the database\
+mongoose: manage the database
 - npm install bcrypt mongodb mongoose next-auth 
 
 ## TailwindCSS
