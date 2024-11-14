@@ -1,4 +1,4 @@
-# Starting Tips
+# Project Info
 ## Create app
 - npx create-next-app@latest ./
     > ./ will create the project in the current folder
